@@ -1,0 +1,91 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="#Pr1I8J|?E3Yw|J}ejmS" x="-265" y="1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="ctVnfSz?pP^}?kXRfUHE"><field name="i">IconNames.Giraffe</field><next><block type="device_show_leds" id="c%C48)(?[E]u0M;5$oD;"><field name="LEDS">`
+        # . . . # 
+        # . . . . 
+        # . . . . 
+        # # # . . 
+        # . # . .
+        `</field><next><block type="device_show_leds" id=")(I=E-(i,pzj{m]bYzWT"><field name="LEDS">`
+        . . . # # 
+        . . . . # 
+        . . . . # 
+        # # . . # 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="FL%p-v]T,hJ*8L*TV(|b"><field name="LEDS">`
+        . . # # . 
+        . . . # . 
+        . . . # . 
+        # . . # # 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="s/R_v2Xzoa/Hv8X#G6Uq"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . . # # # 
+        . . # . #
+        `</field><next><block type="device_show_leds" id="sjniF5=Vpnn19Qe8,Xsw"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="u4B=np7ZyF6,Opv/g?H}" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="[_cQ[L?(bZ9mj*Q}u|qq"><field name="i">IconNames.Giraffe</field><next><block type="device_show_leds" id="9jwN=gn{UE?{pp,XI_H6"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . . # # # 
+        . . # . #
+        `</field><next><block type="device_show_leds" id="_YFGr2m_LN)Zf!t+J|WM"><field name="LEDS">`
+        . . # # . 
+        . . . # . 
+        . . . # . 
+        # . . # # 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="1,$O8Kyo!i*n6{En.h+h"><field name="LEDS">`
+        . . . # # 
+        . . . . # 
+        . . . . # 
+        # # . . # 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="Q6,QO/fN9YOE0qFzmRc?"><field name="LEDS">`
+        # . . . # 
+        # . . . . 
+        # . . . . 
+        # # # . . 
+        # . # . .
+        `</field><next><block type="device_show_leds" id="9)_M/=%+@GV2awRvqXKG"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="Zs3EK6:wtb+W-(O$IfDA" x="274" y="3"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id="VV8aV!14}LB/]=Nk.167"><field name="i">IconNames.Giraffe</field><next><block type="device_show_leds" id=".po-{cw#xLQr+^BtZHZ?"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # . 
+        # # . . .
+        `</field><next><block type="device_show_leds" id="L%pGpEZ@Wv)!(mlH3?1f"><field name="LEDS">`
+        . # . . . 
+        . # # # . 
+        . # . # . 
+        # # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="xgiR#UIOw/8LqQcTta@*"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        # # . . . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="ttk:Mm#_ViBjSTa44DSB"><field name="LEDS">`
+        . # . # . 
+        # # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="/;qle)G#DAXCaAZA|k;W"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="@Mr:I:O7uk[8;NJQ%?,Q" x="-571" y="132"><statement name="HANDLER"><block type="basic_show_icon" id="%yMN]#4!XdUwQ[nbg;0R"><field name="i">IconNames.Giraffe</field></block></statement></block></xml>
